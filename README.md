@@ -1,0 +1,2 @@
+# premium-dollhouse-wire-001-dollhouse-wiring-mini-light
+Tired of losing track of which wire powers which room, or which miniature lamp needs a resistor? The Dollhouse Wiring &amp; Mini Light Craft Hub is your central command center for documenting every connection, component, and illumination plan in one elegant Notion dashboard.  This template transforms the chaos of dollhouse wiring into a structured, sea
